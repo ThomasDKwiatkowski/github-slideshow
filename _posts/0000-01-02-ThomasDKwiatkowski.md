@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sierra is such a weirdo.
 Use the left arrow to go back!
